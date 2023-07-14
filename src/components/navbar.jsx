@@ -48,7 +48,6 @@ const Navbar = () => {
           <div className="navbar-start">
             <a href="/siswa" className="navbar-item">Siswa</a>
             <a href="/bayar" className="navbar-item">Bayar</a>
-            <a href="/users" className="navbar-item">Users</a>
           </div>
 
           <div className="navbar-end">

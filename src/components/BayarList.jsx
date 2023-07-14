@@ -6,6 +6,7 @@ import moment from "moment";
 
 
 const BayarList = () => {
+  // eslint-disable-next-line no-unused-vars
   const [name, setName] = useState("");
   const [token, setToken] = useState("");
   const [expire, setExpire] = useState("");

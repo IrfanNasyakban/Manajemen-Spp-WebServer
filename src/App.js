@@ -7,7 +7,6 @@ import SiswaList from "./components/SiswaList";
 import BayarList from "./components/BayarList";
 import BayarEdit from "./components/BayarEdit";
 import SiswaEdit from "./components/SiswaEdit";
-import Users from "./components/UsersList";
 import Dashboard from './components/dashboard';
 import Footer from './components/Footer';
 import SiswaAdd from './components/SiswaAdd';
@@ -65,12 +64,6 @@ function App() {
             <Navbar/>
             <BayarEdit/>
             <Footer/>
-          </>
-        )} />
-        <Route path="/users" element={(
-          <>
-            <Navbar/>
-            <Users/>
           </>
         )} />
       </Routes>

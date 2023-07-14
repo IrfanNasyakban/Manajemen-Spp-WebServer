@@ -6,12 +6,9 @@ import widia from "../assets/widia.png";
 import ari from "../assets/ari.png";
 import fannisa from "../assets/fannisa.png";
 import {
-  BiReceipt,
-  BiCubeAlt,
   BiCheckDouble,
   BiSolidBuildings,
   BiGroup,
-  BiHeadphone,
   BiBookBookmark,
   BiLogoTwitter,
   BiLogoFacebook,
@@ -203,19 +200,19 @@ Jalan Terbahsari Nomor 1, Terbah, Wates, Kulon Progo, D.I. Yogyakarta 55651
               </div>
             </div>
             <div class="social-links text-center text-md-right pt-3 pt-md-0">
-              <a href="#" class="twitter">
+              <a href="/dashboard" class="twitter">
                 <BiLogoTwitter className="icon-footer" />
               </a>
-              <a href="#" class="facebook">
+              <a href="/dashboard" class="facebook">
                 <BiLogoFacebook className="icon-footer" />
               </a>
-              <a href="#" class="instagram">
+              <a href="/dashboard" class="instagram">
                 <BiLogoInstagram className="icon-footer" />
               </a>
-              <a href="#" class="google-plus">
+              <a href="/dashboard" class="google-plus">
                 <BiLogoGooglePlus className="icon-footer" />
               </a>
-              <a href="#" class="linkedin">
+              <a href="/dashboard" class="linkedin">
                 <BiLogoLinkedin className="icon-footer" />
               </a>
             </div>

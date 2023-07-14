@@ -27,19 +27,19 @@ const Footer = () => {
               </div>
             </div>
             <div class="social-links text-center text-md-right pt-3 pt-md-0">
-              <a href="#" class="twitter">
+              <a href="a" class="twitter">
                 <BiLogoTwitter className="icon-footer" />
               </a>
-              <a href="#" class="facebook">
+              <a href="a" class="facebook">
                 <BiLogoFacebook className="icon-footer" />
               </a>
-              <a href="#" class="instagram">
+              <a href="a" class="instagram">
                 <BiLogoInstagram className="icon-footer" />
               </a>
-              <a href="#" class="google-plus">
+              <a href="a" class="google-plus">
                 <BiLogoGooglePlus className="icon-footer" />
               </a>
-              <a href="#" class="linkedin">
+              <a href="a" class="linkedin">
                 <BiLogoLinkedin className="icon-footer" />
               </a>
             </div>
