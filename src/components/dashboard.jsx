@@ -61,14 +61,17 @@ function Dashboard() {
                 </p>
                 <ul className="mt-5">
                   <li>
-                    <BiCheckDouble className="icon" /> " Excellence is not being the best, but it is doing your best "
+                    <BiCheckDouble className="icon" /> " Excellence is not being
+                    the best, but it is doing your best "
                   </li>
                   <li>
-                    <BiCheckDouble className="icon" /> Keunggulan bukanlah yang terbaik, tetapi Keunggulan adalah melakukan yang terbaik
+                    <BiCheckDouble className="icon" /> Keunggulan bukanlah yang
+                    terbaik, tetapi Keunggulan adalah melakukan yang terbaik
                   </li>
                   <li>
                     <BiCheckDouble className="icon" />
-Jalan Terbahsari Nomor 1, Terbah, Wates, Kulon Progo, D.I. Yogyakarta 55651
+                    Jalan Terbahsari Nomor 1, Terbah, Wates, Kulon Progo, D.I.
+                    Yogyakarta 55651
                   </li>
                 </ul>
               </div>
