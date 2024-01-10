@@ -72,3 +72,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Login Page:
+![Screenshot 2024-01-10 140915](https://github.com/IrfanNasyakban/Manajemen-Spp-WebServer/assets/70449673/b7f2f334-8256-448a-a5f1-0bfe52730d33)
+
+### Landing Page:
+![Screenshot 2024-01-10 140652](https://github.com/IrfanNasyakban/Manajemen-Spp-WebServer/assets/70449673/039636c9-ddfc-4285-8a77-922b0dc5ba57)
+![Screenshot 2024-01-10 140712](https://github.com/IrfanNasyakban/Manajemen-Spp-WebServer/assets/70449673/76a1b2a9-e2fb-41f7-8711-0a5417567e25)
+
+### Data Siswa:
+![Screenshot 2024-01-10 140729](https://github.com/IrfanNasyakban/Manajemen-Spp-WebServer/assets/70449673/98601269-f648-49b3-b5dc-11d85917e320)
+
+### Tambah Data Siswa:
+![Screenshot 2024-01-10 140750](https://github.com/IrfanNasyakban/Manajemen-Spp-WebServer/assets/70449673/9ad0336d-d212-4a97-b9f1-426300a07af8)
+
+### Edit Data Siswa:
+![Screenshot 2024-01-10 140806](https://github.com/IrfanNasyakban/Manajemen-Spp-WebServer/assets/70449673/d089ad25-8b78-4d8f-9e6f-d4add8ea9e17)
+
+### Data Pembayaran:
+![Screenshot 2024-01-10 140818](https://github.com/IrfanNasyakban/Manajemen-Spp-WebServer/assets/70449673/b2a2a7b0-2e3b-4276-ba7b-e093f696aaa8)
+
+### Tambah Pembayaran:
+![Screenshot 2024-01-10 140835](https://github.com/IrfanNasyakban/Manajemen-Spp-WebServer/assets/70449673/3cb4eaae-1fb0-4e70-9e37-14bf72367ca9)
+
+### Edit Pembayaran:
+![Screenshot 2024-01-10 140850](https://github.com/IrfanNasyakban/Manajemen-Spp-WebServer/assets/70449673/ef54d8a4-290c-40f6-84bd-8c67a742c1f6)
